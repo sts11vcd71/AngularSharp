@@ -5,7 +5,7 @@ UI Framework Based on AngularJS and WebAPI (ASP.NET): No more logic duplication 
 Most of javascript code is generated from .NET
 
 Planned Features
-----------------
+
 - AngularJS based views
 	- Polymorphic controls to allow changes driven by metadata
 - The MODEL will contain metadata along with data, which will help to manipulate types of controls: 
@@ -19,7 +19,7 @@ which drives:
 	- Finite-State Machine: buttons will be switching the state of the current View
 
 MODEL
------
+
 - SitePage
 	- Title
 	- Scripts[]
