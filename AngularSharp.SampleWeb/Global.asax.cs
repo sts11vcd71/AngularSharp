@@ -6,7 +6,7 @@ namespace AngularSharp.SampleWeb
 {
     public class Global : System.Web.HttpApplication
     {
-
+        // some changes
         protected void Application_Start(object sender, EventArgs e)
         {
             //GlobalConfiguration.Configuration.Formatters.Insert(0, new JsonMediaTypeFormatter());

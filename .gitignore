@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AngularSharp.sln.ide/*
+/AngularSharp.Core/bin/*
+/AngularSharp.Core/obj/*
+/AngularSharp.Core.Tests/bin/*
+/AngularSharp.Core.Tests/obj/*
+/AngularSharp.SampleBus/bin/*
+/AngularSharp.SampleBus/obj/*
+/AngularSharp.SampleWeb/bin/*
+/AngularSharp.SampleWeb/obj/*
+/packages/*
+
