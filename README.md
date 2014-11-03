@@ -20,13 +20,13 @@ which drives:
 
 MODEL
 -----
-SitePage
-	Title
-	Scripts[]
-	SiteMenu[]
-		SiteMenuItem1
-			Title
-			Action
-		SiteMenuItem2
-			Title
-			Action
+- SitePage
+	- Title
+	- Scripts[]
+	- SiteMenu[]
+		- SiteMenuItem1
+			- Title
+			- Action
+		- SiteMenuItem2
+			- Title
+			- Action
